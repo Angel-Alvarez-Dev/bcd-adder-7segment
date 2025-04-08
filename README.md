@@ -11,7 +11,7 @@ Este repositorio contiene el desarrollo completo de la Actividad III del curso d
 - Desarrollar la habilidad para calcular los **parámetros de corriente, voltaje y potencia** en un sistema digital real.
 - Diseñar un **sumador BCD** con detección de exceso y corrección automática (+6).
 - Mostrar el resultado de la suma en **dos displays de 7 segmentos** (unidades y decenas).
-- Implementar el diseño utilizando **circuitos TTL** y simularlo con herramientas CAD como **KiCad** o **Proteus**.
+- Implementar el diseño utilizando **circuitos TTL** y simularlo con herramientas CAD como **KiCad**.
 - Validar el funcionamiento lógico mediante tablas de verdad y lógica combinacional.
 
 ---
@@ -47,11 +47,11 @@ Este repositorio contiene el desarrollo completo de la Actividad III del curso d
 2. **Obtención de funciones lógicas** mediante simplificación.
 3. **Diseño modular** en Logisim Evolution.
 4. **Cálculos eléctricos** de resistencias, corrientes y potencia.
-5. **Implementación electrónica** en KiCad (o Proteus).
+5. **Implementación electrónica** en KiCad.
 6. **Simulación y verificación** del sistema completo.
 
 
 ## 📄 Entrega
 
-Este repositorio contiene tanto los archivos lógicos como el reporte requerido en PDF. También puede compartirse el archivo `.circ` de Logisim o el proyecto de KiCad a través de Drive, según indicaciones de la plataforma.
+Este repositorio contiene tanto los archivos lógicos como el reporte requerido en PDF. También el archivo `.circ` de Logisim y el proyecto de KiCad.
 
